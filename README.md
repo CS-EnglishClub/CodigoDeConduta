@@ -1,6 +1,6 @@
 # CodigoDeConduta
 
-O Clube de Inglês da Ciência da Computação apoia um ambiente inclusivo. Nós acreditamos que todas as pessoas têm o
+O Clube de Inglês do curso de Ciência da Computação apoia um ambiente inclusivo. Nós acreditamos que todas as pessoas têm o
 direito de aprender e desenvolver suas habilidades em um ambiente seguro e acolhedor.
 
 Seja respeitoso. Assédio e abuso nunca serão tolerados. Se você está em uma situação que lhe deixa desconfortável em alguma
