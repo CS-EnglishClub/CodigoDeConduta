@@ -1,10 +1,20 @@
 # CodigoDeConduta
-Código de conduta para membros integrantes e colaboradores.
+
+O Clube de Inglês da Ciência da Computação apoia um ambiente inclusivo. Nós acreditamos que todas as pessoas têm o
+direito de aprender e desenvolver suas habilidades em um ambiente seguro e acolhedor.
+
+Seja respeitoso. Assédio e abuso nunca serão tolerados. Se você está em uma situação que lhe deixa desconfortável em alguma
+reunião do Clube de Inglês, se a reunião em si estiver criando um ambiente impróprio ou inseguro, ou se as interações com 
+algum membro, representante ou organizador do Clube de Inglês lhe fizer sentir desconfortável, por favor, reporte o acontecido 
+utilizando os procedimentos e meios sugeridos nesse documento. 
 
 
 ## Nossa promessa
 
-Com o interesse de fomentar uma comunidade aberta e acolhedora, nós, como colaboradores e administradores do Clube de Inglês do curso de Ciência da Computação da Universidade Federal de Viçosa - _Campus Florestal_, comprometemo-nos a fazer a participação deste projeto uma experiência livre de assédio para todos, independentemente da aparência pessoal, deficiência, etnia, gênero, idade, identidade ou expressão de gênero, identidade ou orientação sexual, nacionalidade, nível de experiência, porte físico, raça ou religião.
+Com o interesse de fomentar uma comunidade aberta e acolhedora, nós, como colaboradores e administradores do Clube de Inglês do curso de Ciência da Computação da Universidade Federal de Viçosa - _Campus Florestal_, comprometemo-nos a fazer a participação deste projeto uma experiência livre de assédio para todos. Abusos incluem, mas não estão limitados a ofensas verbais ou escritas a comentário relacionados ao gênero, idade, orientação sexual, deficiência, aparência física, tipo de corpo, raça, religião, classe social, status econômico, imagens sexuais, intimidação, perseguição, interrupções insistentes durante fala ou outra apresentação durante a reunião, contato físico inapropriado, e atenção sexual desnecessária. Se o que você está causando desconforto a alguém isso conta como assédio e é rasão suficiente para parar de fazê-lo.
+
+Caso algum participante seja requisitado para cessar algum tipo de comportamento enquadrado como de assédio ou abusivo esperar-se-á que cesse tal comportamento de imediato. 
+
 
 ## Nossos padrões
 
