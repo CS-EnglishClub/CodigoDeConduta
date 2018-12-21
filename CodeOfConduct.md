@@ -1,4 +1,4 @@
-#Code Of Conduct
+# Code Of Conduct
 
 The Computer Science English Club stands for inclusivity. We believe that every single person has the right 
 to learn and to develop their skills in a safe and welcoming environment.
